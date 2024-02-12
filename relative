@@ -1,0 +1,4 @@
+relative:
+a.They are  affected by top ,left, bottom or right
+b.A space is created for them in the document
+c.It will affect the document flow
