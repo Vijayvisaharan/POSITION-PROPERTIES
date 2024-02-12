@@ -1,0 +1,5 @@
+3.
+a.They are  affected by top ,left, bottom or right 
+b.It will affect the document flow
+c.no space is created 
+d.it will be positioned w.r.t first positioned element
